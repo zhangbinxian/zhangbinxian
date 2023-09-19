@@ -1,6 +1,5 @@
 ### bx_cha 👋
 
-
 **zhangbinxian/zhangbinxian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,5 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=zhangbinxian&theme=dark&layout=compact)
+
+<img src="https://visitor-badge.glitch.me/badge?page_id=Github主页地址&right_color=red" />
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhangbinxian)](https://github.com/anuraghazra/github-readme-stats)
